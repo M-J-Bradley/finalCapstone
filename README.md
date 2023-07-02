@@ -10,5 +10,6 @@ Once the file has been opened in an appropriate program such as VS Code, run the
 Once logged in, the user has the opportunity to select one of several options:
 
 ![image](https://github.com/M-J-Bradley/finalCapstone/assets/133260112/47910749-b259-4678-91fe-181c8dda5f45)
+
 Once an action has been completed, select 'va' to view all tasks and ensure the change is made, or, if logged in as admin, select either 'gr' to generate reports, or 'ds' to display the statistics of the tasks and users.
 
